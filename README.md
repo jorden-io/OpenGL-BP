@@ -1,1 +1,1 @@
-GLAD, GLM and OpenGL context boiler plate init mac os
+GLFW, GLAD, GLM and OpenGL context boiler plate for macOS
